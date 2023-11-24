@@ -1,0 +1,10 @@
+name: flowrate
+title:
+username: poppypeapea
+account: poppypeapea
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10614864
+bundleId: 7963259
+url: https://poppypeapea.shinyapps.io/flowrate/
+version: 1
