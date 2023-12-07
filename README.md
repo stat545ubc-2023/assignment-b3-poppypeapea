@@ -12,7 +12,7 @@ The Water Flow Analysis Tool is an interactive Shiny web application designed fo
 - **Summary Statistics**: Provides summary statistics of the filtered dataset, offering insights into data distribution and key metrics.
 
 ## Live Application
-You can access the application at [Water Flow Analysis Tool](#https://poppypeapea.shinyapps.io/flowrate/).
+You can access the application at [Water Flow Analysis Tool] (#https://poppypeapea.shinyapps.io/flowrate/).
 
 ## Getting Started
 
