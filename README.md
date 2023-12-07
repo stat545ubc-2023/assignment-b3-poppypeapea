@@ -1,5 +1,3 @@
-# Creating a new README.md content for the updated Shiny app in Markdown format
-readme_content = """
 # Water Flow Analysis Tool
 
 ## Description
